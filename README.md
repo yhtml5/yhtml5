@@ -98,7 +98,7 @@
 
 <style>
 .stack img {
-  height: 20px
+  height: 14px
 }
 .stats img {
   height: 120px
