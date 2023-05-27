@@ -46,11 +46,11 @@
 ## Stats
 <div>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=yhtml5&theme=light&show_icons=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=yhtml5&theme=dark&show_icons=true&include_all_commits=true"
       height="165"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhtml5&layout=compact&theme=light"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhtml5&layout=compact&theme=dark"
       height="165"
     />
 </div>
