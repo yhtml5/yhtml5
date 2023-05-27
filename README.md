@@ -1,59 +1,10 @@
 
 ## About
 
-  <!-- <h2>
-    <center>
-      <a href="https://dongbizhen.com">博客</a> |
-      <a href="https://juejin.cn/user/3808364011458759">掘金</a> |
-      <a href="https://dongbizhen.com/about/">About</a>
-    </center>
-  </h2> -->
   <!-- <p>kyle，中国杭州</p>
   <p>涉猎跨端技术方向，前端工程化，前端性能优化，小程序框架</p> -->
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=yhtml5.yhtml5.README.md)
-
-<!--   <h2>
-    <a href="https://dongbizhen.com">Welcome to Beezen's blog</a>
-  </h2>
-  <div>
-    <ul>
-     <li>
-        <a
-          href="https://dongbizhen.com/categories/%E8%B7%A8%E7%AB%AF%E5%BC%80%E5%8F%91/"
-          >🙏 跨端开发</a
-        >
-      </li>
-      <li>
-        <a href="https://dongbizhen.com/categories/Taro/"
-          >🙏 Taro</a
-        >
-      </li>
-      <li>
-        <a href="https://dongbizhen.com/categories/GMU/"
-          >🙏 GMU</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://dongbizhen.com/categories/Nucm/"
-          >🙏 Nucm</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://dongbizhen.com/categories/%E5%9F%8B%E7%82%B9/"
-          >🙏 埋点</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://dongbizhen.com/categories/javascript/"
-          >🙏 Javascript</a
-        >
-      </li>
-    </ul>
-  </div> -->
 
 ## My Tech Stack
 
@@ -93,9 +44,16 @@
 </div>
 
 ## Stats
-
-<img alt="stats" height="120px" src="https://github-readme-stats.vercel.app/api?username=yhtml5&theme=light&show_icons=true&include_all_commits=true)"/>
-<img alt="languages" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhtml5&layout=compact&theme=light)"/>
+<div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=yhtml5&theme=light&show_icons=true&include_all_commits=true"
+      height="165"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhtml5&layout=compact&theme=light"
+      height="165"
+    />
+</div>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
