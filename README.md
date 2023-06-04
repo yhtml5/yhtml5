@@ -18,8 +18,11 @@
   
 <img height="20px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img height="20px" alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-<img height="20px" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img height="20px" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img height="20px" alt="Taro" src="https://img.shields.io/badge/Taro-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img height="20px" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img height="20px" alt="Vuex" src="https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%233eaf7c"/>
+
 <br/>
   
 <img height="20px" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -54,6 +57,3 @@
       height="165"
     />
 </div>
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
